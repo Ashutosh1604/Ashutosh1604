@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **any tech. related stuff**
 
-- 📫 How to reach me **ashutoshdanny19@gmail.com**
+- 📫 How to reach me **ashutoshdhyani1604@gmail.com**
 
 - ⚡ Fun fact **consistency is the key**
 
