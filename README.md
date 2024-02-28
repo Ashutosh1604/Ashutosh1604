@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh1604" alt="ashutosh1604" /></a> </p>
 
-- 🌱 I’m currently learning **C++/Frontend web Development**
 
 - 👯 Github **Ashutosh1604**
 
