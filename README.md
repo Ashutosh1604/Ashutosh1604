@@ -1,4 +1,4 @@
-![image](https://github.com/Ashutosh1604/Ashutosh1604/assets/82019070/b8b251da-f091-42ac-aba3-f228cbf6e9c7)<h1 align="center">Hi 👋, I'm Ashutosh Dhyani</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Dhyani</h1>
 <h3 align="center">A Boy trying to Figure- Out Stuff!!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
